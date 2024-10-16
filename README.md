@@ -1,14 +1,8 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <style>
-        body {
-            text-align: center;
-        }
-    </style>
-</head>
+
 <body>
-    <h1>Sistema de Estoque</h1>
+    <h1>Inventory Control Project</h1>
     <p>An inventory system is a fundamental application for many companies, as it allows you to manage and control the products available in a warehouse or store. In Java, we can create an inventory system using object-oriented programming (OOP) concepts and suitable data structures.
 </p>
     <a href="https://www.youtube.com/watch?v=KYliJ2O4Jvc&ab_channel=N%C3%A3oSei" target="_blank">
